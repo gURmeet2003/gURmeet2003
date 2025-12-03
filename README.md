@@ -41,13 +41,13 @@ Skilled in **MERN stack**, I aim to craft clean, efficient, and impactful web ap
 - Built a **responsive portfolio** using React.js and Tailwind CSS.  
 - Added a **dynamic project carousel** with React Slick for better interactivity.  
 - Used React Router for **smooth navigation** and better user experience.  
-🔗 [Source Code](https://github.com/gURmeet2003)
+🔗 [Source Code](https://github.com/gURmeet2003/Personal-Portfolio/tree/6b1537a80178e63c0212039f82677555ae645560)
 
 #### 📝 [Registration Form](https://github.com/gURmeet2003/Registration-Form)
 - Developed a **React + Tailwind CSS** registration form with **MongoDB integration**.  
 - Implemented **Node.js + Express.js backend** with server-side validation.  
 - Ensured secure user data handling and seamless API connectivity.  
-
+🔗 [Source Code](https://github.com/gURmeet2003/Registration-Form)
 ---
 
 ### 🎓 Education
