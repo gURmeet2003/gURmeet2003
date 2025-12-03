@@ -90,18 +90,6 @@ Techno International Newtown, Kolkata — *2021–2025*
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gURmeet2003&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gURmeet2003&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gURmeet2003&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
----
-
 ### ✨ Interests
 🎒 Travelling 🍳 Cooking 🌱 Gardening
 
